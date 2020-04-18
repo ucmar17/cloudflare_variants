@@ -1,0 +1,6 @@
+name = "internship-application"
+type = "javascript"
+account_id = "068dbb1abc388a04a443c0971eb97f24"
+workers_dev = true
+route = ""
+zone_id = ""
